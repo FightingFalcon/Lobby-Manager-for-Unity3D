@@ -5,3 +5,6 @@ It integrates with the Lobby and Authentication services of Unity Services, to f
 
 * Players can create new lobbies or join existing ones using unique lobby codes. The script handles all aspects of lobby management, including setting up lobby options and player data.
 * Implements anonymous sign-in functionality, streamlining the process of player authentication and ensuring a smooth user experience.
+
+
+- TODO: Separate ui and use event driven impl.
