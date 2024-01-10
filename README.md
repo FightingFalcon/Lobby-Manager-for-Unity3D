@@ -7,4 +7,4 @@ It integrates with the Lobby and Authentication services of Unity Services, to f
 * Implements anonymous sign-in functionality, streamlining the process of player authentication and ensuring a smooth user experience.
 
 
-- TODO: Separate ui and use event driven impl.
+- TODO: Separate ui and use event driven impl. and player readiness.
